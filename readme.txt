@@ -2,6 +2,7 @@
 Contributors: adamsilverstein
 Tags: media, images, animation, uploads
 Requires at least: 7.2
+Tested up to: 7.2
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
