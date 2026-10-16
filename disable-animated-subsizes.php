@@ -4,7 +4,7 @@
  * Plugin URI:  https://github.com/adamsilverstein/disable-animated-subsizes
  * Description: Generates static first-frame sub-sizes for animated image uploads.
  * Version:     1.0.0
- * Requires at least: 6.8
+ * Requires at least: 7.2
  * Requires PHP: 7.4
  * Author:      Adam Silverstein
  * Author URI:  https://profiles.wordpress.org/adamsilverstein/
